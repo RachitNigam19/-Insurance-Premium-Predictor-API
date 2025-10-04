@@ -1,4 +1,4 @@
-💸 Insurance-Premium-Predictor-API
+# 💸 Insurance-Premium-Predictor-API
 This repository contains a machine learning-powered API for predicting insurance premiums based on user input data. Built with FastAPI, validated with Pydantic, and containerized using Docker, this project demonstrates expertise in developing scalable, production-ready APIs and machine learning applications.
 📖 Overview
 The Insurance Premium Predictor API is a full-stack project that leverages a trained machine learning model to estimate insurance premiums. It uses FastAPI for high-performance API development, Pydantic for robust data validation, and Docker for seamless deployment. The project showcases practical skills in building, validating, and deploying ML-driven APIs for real-world applications.
